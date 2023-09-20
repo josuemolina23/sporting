@@ -1,0 +1,57 @@
+
+.buscar{
+    display: flex;
+    justify-content: center;
+    padding: 20px;  
+}
+.derecha{
+    display: flex;
+    justify-content: flex-end;
+    color:cadetblue;
+    padding: 10px;
+    color: #DE5AF6;
+}
+.ropa{
+   color: #DE5AF6;
+    font-family: math;
+}
+.imagenes{
+    display: flex;
+height: 192vh;
+}
+.todos{
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+padding: 20px;
+color: blue;
+}
+.regis{
+    width: 113px;
+}
+.pp{
+    display: flex;
+    font-size: 20px;
+    font-family:math;
+    justify-content: center;
+}
+.imag{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.sporting{
+    width: 1335px;
+}
+.propa{
+    display: flex;
+    padding:1px;
+    padding-left:0px;
+}
+.fila{
+    height: 333px;
+    padding: 1px;
+}
+
+
+
